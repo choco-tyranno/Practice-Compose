@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice Compose</string>
+    <string name="onBoarding_continue">계속하기</string>
+    <string name="onBoarding_welcome">어서오세요.\n컴포즈 세계에 오신 것을 환영합니다!</string>
+    <string name="card_profile_image">프로필 이미지</string>
+    <string name="card_show_detail">프로필 상세 보기</string>
+</resources>
